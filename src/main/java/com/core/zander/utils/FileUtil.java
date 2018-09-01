@@ -15,6 +15,11 @@ import java.util.List;
 
 import com.core.zander.constants.FormatConstants;
 
+/**
+ * 
+ * @author zander.zhang
+ *
+ */
 public class FileUtil {
 
 	public static final SimpleDateFormat format = new SimpleDateFormat(FormatConstants.DATE_TIME_FORMAT);

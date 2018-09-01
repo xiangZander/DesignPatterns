@@ -16,6 +16,11 @@ import freemarker.template.Configuration;
 import freemarker.template.Template;
 import freemarker.template.TemplateException;
 
+/**
+ * 
+ * @author zander.zhang
+ *
+ */
 public class FreeMarkerUtil {
 	
 	public static final String FREEMARKER_TEMPLATE_NAME = "strTemplate";

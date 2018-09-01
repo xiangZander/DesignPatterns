@@ -2,6 +2,11 @@ package com.core.zander.utils;
 
 import java.util.UUID;
 
+/**
+ * 
+ * @author zander.zhang
+ *
+ */
 public class GenerateUuidUtil {
 	public static String getUUID() {
 		return UUID.randomUUID().toString().replaceAll("-", "");
